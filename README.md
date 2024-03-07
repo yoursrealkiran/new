@@ -1,1 +1,2 @@
-# this repository explain the transformer neural networks usung pytorch
+# this repository explain the transformer neural networks using pytorch
+the transformer neural networks
